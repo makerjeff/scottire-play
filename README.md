@@ -3,3 +3,4 @@ Examples and experiments from Scotland and Ireland vacation.
 
 ##Notes
 - urllib.urlencode(\<non-string data object\>)
+- socket.gethostbyname(\<url\>)
