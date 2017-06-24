@@ -17,6 +17,7 @@ def print_colors_sleep():
         print millis()
 
 def print_colors_no_sleep():
+    pass
 
 
 
