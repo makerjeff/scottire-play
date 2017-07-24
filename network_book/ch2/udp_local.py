@@ -31,5 +31,5 @@ elif sys.argv[1:] == ['client']:
     print 'The server', addr, 'says', repr(data)
 
 else:
-    print >> sys.stderr, bcolors.bcolors.FAIL+'usage: udp_local.py server|client'+bcolors.bcolors.ENDC
+    print >> sys.stderr, bcolors.bcolors.FAIL+'usage: udp_messenger.py server|client'+bcolors.bcolors.ENDC
 
